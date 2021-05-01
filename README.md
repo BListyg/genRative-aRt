@@ -1,2 +1,2 @@
 # genRative-aRt
-Using Erdos-Renyi random graph generation to make pretty abstract pictures
+List of functions for pretty pictures. Aim to clean up this summer (and maybe make little booklet? Who knows!)
